@@ -6,4 +6,5 @@ A new Flutter project.
 
 This project is a coffee shop Home page Template.
 
- ![](/assets/screenshot/sc.png =493x740)
+<img src="./assets/screenshot/sc.png" width="300" height="600"/>
+
