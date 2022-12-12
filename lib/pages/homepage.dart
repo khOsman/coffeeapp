@@ -133,13 +133,13 @@ class _HomePageState extends State<HomePage> {
                     price: 3.50,
                   ),
                   CoffeeTile(
-                    imageUrl: ImageURL.coffee1Url3,
+                    imageUrl: ImageURL.coffeeUrl3,
                     title: "Espresso",
                     subTitle: "Single shot",
                     price: 2.00,
                   ),
                   CoffeeTile(
-                    imageUrl: ImageURL.coffee1Url4,
+                    imageUrl: ImageURL.coffeeUrl4,
                     title: "Americano",
                     subTitle: "Double Shot",
                     price: 3.00,
